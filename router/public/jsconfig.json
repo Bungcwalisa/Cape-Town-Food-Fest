@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["Cape-Town-Food-Fest/router/public/src/*"]
+    }
+  },
+  "exclude": ["Cape-Town-Food-Fest/router/node_modules", "dist"]
+}
